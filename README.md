@@ -1,0 +1,2 @@
+# WormfareBot
+WormfareBot App AutoClicker

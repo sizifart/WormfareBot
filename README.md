@@ -28,7 +28,7 @@ Before you begin, make sure you have the following installed:
 ## Obtaining API Keys
 1. Go to my.telegram.org and log in using your phone number.
 2. Select "API development tools" and fill out the form to register a new application.
-3. Record the API_ID and API_HASH provided after registering your application in the .env file.
+3. Record the API_ID and API_HASH provided after registering your application in the data/api_config.json file.
 
 ## Auto Install/Run
 - Click on Install.bat to automatically install the required dependencies 
